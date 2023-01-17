@@ -17,6 +17,7 @@ background-color: aqua;
 .main2 .col-2{
     border: 2px solid black;
     width: 71%;
+    justify-content: s;
 }
 .row-1{
     border: 2px solid red;
@@ -25,7 +26,20 @@ background-color: aqua;
 .list-group .a{
     border-radius: 0px;
 }
-.name
+.cane
 {
     border: 2px solid green;
+    float: inline-end;
+    width: 40%;
+    margin-top: 40%;
+}
+.col-1{
+    border: 2px solid black;
+    width: 30%;
+    float: left;
+}
+.col-2{
+    border: 2px solid black;
+    width: 30%;
+    float: left;
 }
