@@ -8,9 +8,43 @@ const app = new Vue (
             scritte: [
             {
                 name: "flmsdfjsrifjironflr",
+                data: '2020',
             },
             {
                 name: "flmsdfjsrifjironflr",
+                data: '2020',
+            },
+            {
+                name: "flmsdfjsrifjironflr",
+                data: '2020',
+            },
+            {
+                name: "flmsdfjsrifjironflr",
+                data: '2020',
+            },
+            {
+                name: "flmsdfjsrifjironflr",
+                data: '2020',
+            },
+            {
+                name: "flmsdfjsrifjironflr",
+                data: '2020',
+            },
+            {
+                name: "flmsdfjsrifjironflr",
+                data: '2020',
+            },
+            {
+                name: "flmsdfjsrifjironflr",
+                data: '2020',
+            },
+            {
+                name: "flmsdfjsrifjironflr",
+                data: '2020',
+            },
+            {
+                name: "flmsdfjsrifjironflr",
+                data: '2020',
             },
         ]},
         methods: {
